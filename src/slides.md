@@ -37,26 +37,69 @@ style: |
     left: 80px;
   }
 ---
-# Intro Slide 
-![bg opacity](../assets/gradient.jpeg)
+# How do you slice a waffle?
+![bg opacity:90%](../assets/gradient.jpeg)
 Dean Keeble
-Somewhere, sometime
+20th October 2025
 
 ---
-## List of things
-Normal markdown rules apply:
 
-It helps us keep track of: 
-- things
-- other things
-- those things over there
-- and more! :o: :smiley: :white_check_mark:
+## Contents
 
----
-<!--- make pictures wide --->
-![bg w:1268](../assets/wide_picture.jpg)
+- a quick introduction to how i15-1 operates
+- beamline schedule for next 12 months
+- what project waffle _hoped_ to achieve
+- establish a shortlist of well-defined functional statements
 
 ---
-![bg opacity](../assets/gradient.jpeg)
-# fitting long lines to page width
-#### <!--fit--> https://www.diamond.ac.uk/Instruments/Crystallography/I19/Manual/EH1.html
+
+## A quick intro to I15-1
+![bg right:46%](../assets/i15-1.png)
+We specialise in _total scattering_ which most people inspect via the _pair distribution function_
+
+---
+Our detector is a Perkin Elmer (sometimes called a Varex) which operates on a fixed clock: it reads out every 3 seconds
+
+* we have a new detector though :smiley: 
+* we don't use it because the data it produces isn't good enough :frowning_face:
+
+---
+## Types of experiment
+![bg right:46%](../assets/i15-1.png)
+roughly half of proposals study sample _ex situ_; we use a robot sample changer
+some of those we run as mail-in
+
+---
+
+![bg w:1300](../assets/next_12_months.svg)
+
+---
+
+## what is... _was_... project waffle?
+![w:500 bg left:50% w:500](../assets/project%20waffle%20cropped.png)
+
+---
+
+# Waffle &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![ w:150](../assets/software_Waffle.jpg)
+
+[ **wof**-uhl ]
+**noun**
+*In user interface design, "waffle" refers to a grid-like menu or app launcher, often used as a navigation element, resembling a waffle's squares.*
+
+---
+
+Project waffle <del>seeks</del> _sought_ to bring together new software components to make a fully integrated system on an existing Diamond beamline (I15-1). 
+
+---
+
+![bg right:35%](../assets/waffle_slicing_portrait.png)
+## beamline objectives
+A measurement takes 10 minutes of beamtime, and an hour of staff-time
+* collecting sample information
+* distributing consumables
+* making experiment plan
+* processing data
+* notifying users
+
+---
+
