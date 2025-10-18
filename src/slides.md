@@ -38,7 +38,6 @@ style: |
   }
 ---
 # How do you slice a waffle?
-![bg opacity:90%](../assets/gradient.jpeg)
 Dean Keeble
 20th October 2025
 
@@ -100,6 +99,4 @@ A measurement takes 10 minutes of beamtime, and an hour of staff-time
 * making experiment plan
 * processing data
 * notifying users
-
----
 
