@@ -65,8 +65,14 @@ Our detector is a Perkin Elmer (sometimes called a Varex) which operates on a fi
 ---
 ## Types of experiment
 ![bg right:46%](../assets/i15-1.png)
-roughly half of proposals study sample _ex situ_; we use a robot sample changer
-some of those we run as mail-in
+Roughly half of proposals study sample _ex situ_; we use a robot sample changer
+
+Some of those we run as mail-in
+
+---
+### Calculating the Pair Distribution Function is _not_ straightforward
+- we need to subtract the background
+- we need to know the sample composition and atomic density
 
 ---
 
